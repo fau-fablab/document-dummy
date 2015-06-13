@@ -15,6 +15,7 @@ git clone --recursive git@github.com:fau-fablab/document-dummy-einweisung.git
 Technische Details zum Buildserver siehe auf macgyver `/home/buildserver/README`
 
 [![Build Status](https://user.fablab.fau.de/~buildserver/document-dummy/status.svg)](https://user.fablab.fau.de/~buildserver/document-dummy/)
+[![TODOs](https://user.fablab.fau.de/~buildserver/document-dummy/status-todos.svg)](https://user.fablab.fau.de/~buildserver/document-dummy/)
 
 Lizenz
 ------
