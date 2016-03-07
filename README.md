@@ -3,7 +3,7 @@ document-dummy
 
 Ein Demodokument als Vorlage für andere [FabLab](https://fablab.fau.de)-Dokumente.
 
-Die neueste Version der gebauten PDFs sind unter https://user.fablab.fau.de/~buildserver/ abrufbar.
+Die neueste Version der gebauten PDFs sind unter https://brain.fablab.fau.de/build/ abrufbar.
 
 auschecken
 ----------
@@ -14,8 +14,8 @@ git clone --recursive git@github.com:fau-fablab/document-dummy-einweisung.git
 
 Technische Details zum Buildserver siehe auf macgyver `/home/buildserver/README`
 
-[![Build Status](https://user.fablab.fau.de/~buildserver/document-dummy/status.svg)](https://user.fablab.fau.de/~buildserver/document-dummy/)
-[![TODOs](https://user.fablab.fau.de/~buildserver/document-dummy/status-todos.svg)](https://user.fablab.fau.de/~buildserver/document-dummy/)
+[![Build Status](https://brain.fablab.fau.de/build/document-dummy/status.svg)](https://brain.fablab.fau.de/build/document-dummy/)
+[![TODOs](https://brain.fablab.fau.de/build/document-dummy/status-todos.svg)](https://brain.fablab.fau.de/build/document-dummy/)
 
 Lizenz
 ------
